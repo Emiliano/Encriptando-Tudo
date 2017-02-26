@@ -12,7 +12,7 @@
 
 ### [Garoa Hacker Clube](https://garoa.net.br)
 [![Garoa Hacker Clube]
-(https://garoa.net.br/w/images/Logo_Garoa_PB.png)](https://garoa.net.br)
+(https://s3.amazonaws.com/media-p.slid.es/uploads/645134/images/3451731/Garoa.svg)](https://garoa.net.br)
 
 
 ## PRIVACIDADE?
