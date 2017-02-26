@@ -5,7 +5,7 @@
 
 
 > Por Erick Emiliano
-> - [@Erick_Emi](https://twitter.com/Erick_Emi)
+> -- [@Erick_Emi](https://twitter.com/Erick_Emi)
 > 
 > [Slides](http://slides.com/erickemiliano/deck#/)
 
