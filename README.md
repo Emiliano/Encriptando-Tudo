@@ -3,14 +3,20 @@
 ## Encriptando Tudo
 #### Usando Criptografia na proteção à privacidade
 
+
 > Por Erick Emiliano
 > - [@Erick_Emi](https://twitter.com/Erick_Emi)
+> 
+> [Slides](http://slides.com/erickemiliano/deck#/)
+
 
 ### [Garoa Hacker Clube](https://garoa.net.br)
-![Garoa Hacker Clube]
-(https://garoa.net.br/w/images/Logo_Garoa_PB.png)
+[![Garoa Hacker Clube]
+(https://garoa.net.br/w/images/Logo_Garoa_PB.png)](https://garoa.net.br)
+
 
 ## PRIVACIDADE?
+
 
 Privacidade é um direito fundamental e essencial.
 Ela é o limite que definimos para o acesso a nossas vidas pessoais.
@@ -59,9 +65,8 @@ Método é em homenagem a Júlio César e Funciona a partir do deslocamento de l
 Cada letra é substituida por uma letra X posições à sua frente
 
 
+
 ![Cifra de Cesar](https://s3.amazonaws.com/media-p.slid.es/uploads/645134/images/3452471/CESAR.png)
 
 
-Slides:
-http://slides.com/erickemiliano/deck#/
 
